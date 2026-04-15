@@ -29,7 +29,7 @@ A disciplina apresenta fundamentos e aplicações de PLN com foco em modelos bas
 - Uso do ecossistema Hugging Face
 - Tarefas clássicas de PLN:
     - Classificação de texto
-    - Reconhecimento de entidades nomeadas (NER)
+    - Reconhecimento de entidades nomeadas
     - Geração de texto
     - Sumarização
     - Sistemas de perguntas e respostas
