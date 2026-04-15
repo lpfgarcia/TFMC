@@ -41,7 +41,6 @@ Ao final do curso, os estudantes serão capazes de desenvolver aplicações comp
 
 ## Programa
 
-```table
 | Data  | Conteúdo                             |
 | ----- | ------------------------------------ |
 | 02/04 | Tokenização                          |
@@ -57,7 +56,6 @@ Ao final do curso, os estudantes serão capazes de desenvolver aplicações comp
 | 18/06 | Seminários                           |
 | 25/06 | Seminários                           |
 | 01/07 | Seminários                           |
-```
 
 ## Método de Avaliação
 
