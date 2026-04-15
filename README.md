@@ -14,12 +14,13 @@ Material da disciplina de Tópicos em Fundamentos e Métodos da Computação (TF
 ```
 
 ## Objetivos
+
 A disciplina busca preparar o estudante para uma compreensão teórica e prática dos principais conceitos e técnicas em Processamento de Linguagem Natural (PLN), capacitando-o a:
 
-- Entender os fundamentos de modelos de linguagem modernos
-- Trabalhar com dados textuais em diferentes formatos
-- Implementar soluções para problemas reais envolvendo texto
-- Utilizar ferramentas e bibliotecas do ecossistema atual de PLN
+- Entender os fundamentos de modelos de linguagem modernos;
+- Trabalhar com dados textuais em diferentes formatos;
+- Implementar soluções para problemas reais envolvendo texto;
+- Utilizar ferramentas e bibliotecas do ecossistema atual de PLN.
 
 ## Ementa
 
@@ -61,9 +62,9 @@ Ao final do curso, os estudantes serão capazes de desenvolver aplicações comp
 
 Desenvolvimento e apresentação de um projeto prático, no qual os alunos deverão:
 
-Aplicar técnicas de PLN estudadas na disciplina
-Utilizar modelos baseados em transformers
-Resolver um problema real ou relevante
+- Aplicar técnicas de PLN estudadas na disciplina;
+- Utilizar modelos baseados em transformers;
+- Resolver um problema real ou relevante.
 
 ## Referências
 
