@@ -46,7 +46,7 @@ Ao final do curso, os estudantes serão capazes de desenvolver aplicações comp
 | ----- | ------------------------------------ |
 | 02/04 | Tokenização                          |
 | 09/04 | Embeddings                           |
-| 16/04 | Redes Neurais                        |
+| 16/04 | Redes Neurais [link](https://youtu.be/GfHmGrmvcdw)                 |
 | 23/04 | Encoder                              |
 | 30/04 | Decoders                             |
 | 07/05 | Classificação de Texto               |
