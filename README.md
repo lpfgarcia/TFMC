@@ -47,13 +47,13 @@ Ao final do curso, os estudantes serão capazes de desenvolver aplicações comp
 | 02/04 | Tokenização                          |
 | 09/04 | Embeddings                           |
 | 16/04 | Redes Neurais [link](https://youtu.be/GfHmGrmvcdw)                 |
-| 23/04 | Encoder                              |
-| 30/04 | Decoders                             |
-| 07/05 | Classificação de Texto               |
-| 14/05 | Reconhecimento de Entidades Nomeadas |
-| 21/05 | Geração de Texto                     |
-| 28/05 | Sumarização                          |
-| 11/06 | Perguntas e Respostas                |
+| 23/04 | Redes Neurais                        |
+| 30/04 | Encoders I                           |
+| 07/05 | Encoders II                          |
+| 14/05 | Decoders I                           |
+| 21/05 | Decoders II                          |
+| 28/05 | Classificação e NER                  |
+| 11/06 | Geração e Sumarização                |
 | 18/06 | Seminários                           |
 | 25/06 | Seminários                           |
 | 01/07 | Seminários                           |
